@@ -19,8 +19,8 @@
   ## Demonstração 🚀 
 
 <div align="center">
-<img src="https://github.com/EoFeer/easy-shopping/blob/master/assets/computer.png?raw=true" height=400>
-<img src="https://github.com/EoFeer/easy-shopping/blob/master/assets/celular.png?raw=true" height=400 >
+<img src="https://github.com/EoFeer/easy-shopping/blob/master/assets/computer.png?raw=true" height=600>
+<img src="https://github.com/EoFeer/easy-shopping/blob/master/assets/celular.png?raw=true" height=450 >
 </div>
 
 
